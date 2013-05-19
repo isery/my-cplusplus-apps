@@ -9,6 +9,6 @@ a couple of interesting C++ Apps
 
 3. implementation of the C++11 std::future: [cpp reference](http://en.cppreference.com/w/cpp/thread/future)
 
-![mandelbrot](/madelbrot/mandel.png)
+![mandelbrot](/mandelbrot/mandel.png)
 
 
