@@ -3,7 +3,7 @@ my-cplusplus-apps
 
 a couple of interesting C++ Apps
 
-1. Developing a multithreaded calculation of the madelbro set: [wikipedia mandelbrot](http://en.wikipedia.org/wiki/Mandelbrot_set)
+1. Developing a multithreaded calculation of the mandelbro set: [wikipedia mandelbrot](http://en.wikipedia.org/wiki/Mandelbrot_set)
 
 2. Multithreaded version of conways game of life: [wikipedia game of life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
